@@ -5,7 +5,7 @@ Fork of nidayand &amp; pgote's Blind project to use the A4988 driver, and the 28
 BOM:
 
 - 1x 28BYJ-48 Stepper Motor 12V
--1x A4988 Stepper Motor
+#1x A4988 Stepper Motor
  1x Nodemcu (esp8266)
  1x Buck Converter (12v to 5V for the nodemcu.)
 STL's from thingiverse: https://www.thingiverse.com/thing:2392856 
